@@ -1,5 +1,8 @@
 The Smart Cart revolutionizes the traditional shopping experience by automating checkout processes in grocery stores and malls. This innovation features a Raspberry Pi-powered device with a 10.1-inch Touch Screen LCD that displays real-time updates on item weight, total cost, and quantity with a well-designed UI. Integrated with RFID readers, the cart detects products instantly as they are added or removed, eliminating the need for manual scanning at checkout. Customers can complete purchases effortlessly via QR code. The cart includes a Type-C port for efficient device charging. The accompanying admin software empowers store managers to monitor active carts, track purchases, and optimize inventory. The system also captures valuable customer data, enabling personalized marketing and enhancing overall store efficiency.
 
+![ZAPCART Smart Cart](images/zapcart-smart-cart.jpg)
+
+
 Work Flow: 
 1. Initialization & User Authentication
 • The customer selects a Smart Cart and powers it on.
